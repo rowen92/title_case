@@ -1,5 +1,14 @@
 # Title case an every word in sentence
 
+### Requirenments
+* NodeJS >= 4.x
+
+### Install
+```sh
+$ git clone git@github.com:rowen92/title_case.git
+$ npm install
+```
+
 ### Run in development mode
 ```sh
 $ npm start
@@ -10,7 +19,5 @@ $ npm start
 $ npm test
 ```
 
-### Dependencies:
-* chai
-* jsdoc
-* mocha
+### License
+MIT
